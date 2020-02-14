@@ -1,0 +1,17 @@
+{
+  "name": "e_learning_api_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "knex": "^0.20.8",
+    "mysql": "^2.18.1",
+    "pg": "^7.18.1"
+  }
+}
