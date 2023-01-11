@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "knex": "^0.20.8",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "pg": "^7.18.1"
   }
